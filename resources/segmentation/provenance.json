@@ -1,0 +1,7 @@
+{
+  "unet_source": "run_fast_v1",
+  "original_sha256": "6df0ce0559e1843cf3c81da68c64003122c1a7b649cafa6b7c88c6fbce635ea3",
+  "exported_sha256": "5914db7533b58d9731c4c0fb2a53d7c62ddb5452d5daa3504526ae3c8b075400",
+  "geometry_dataset": "d448c76bdbcf6e3b7a1ded462f9f09f939abf5abacd167dead9c1cfd40368ba0",
+  "geometry_configuration_sha256": "45afa59785ff4496b0a4da8c6c2c59af58eea7534690c838d70a1184269d6bb5"
+}

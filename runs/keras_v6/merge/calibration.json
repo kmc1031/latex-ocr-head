@@ -1,0 +1,8 @@
+{
+  "val_recall": 0.304635761589404,
+  "val_precision": 0.989247311827957,
+  "threshold": 0.9,
+  "tp": 276,
+  "fp": 3,
+  "test_used_for_selection": false
+}

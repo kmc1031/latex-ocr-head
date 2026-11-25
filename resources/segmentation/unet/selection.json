@@ -1,0 +1,4 @@
+{
+  "foreground": 0.65,
+  "rule": "mean clean/degraded validation symbol F1"
+}
